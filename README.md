@@ -23,6 +23,14 @@ Il faut Windows 10 ou 11 avec la langue française installée (c'est déjà le c
 - En haut : **XP**, **Kamas** ou **Ressources**. Dans l'historique, double-clique sur une session pour voir ce qu'a gagné chaque personnage.
 - Tes fenêtres Dofus peuvent être les unes derrière les autres, mais pas réduites dans la barre des tâches.
 
+## Prix des ressources : avec le Suivi HDV
+
+La valeur de ton butin (onglet **Ressources**) est calculée grâce au **[Suivi HDV](https://github.com/eltacosanchez/suivi-HDV)**, l'autre outil gratuit qui relève les prix de l'Hôtel de vente quand tu regardes une ressource dans Dofus.
+
+- Mets les dossiers `HDV` et `Compteur XP` côte à côte, dans un même dossier : le compteur prend tout seul le prix moyen de chaque ressource.
+- Une ressource que tu n'as jamais relevée à l'HDV compte pour 0.
+- Sans le Suivi HDV, tout le reste marche quand même : seule la valeur du butin reste à 0.
+
 Tout est expliqué dans le fichier `LISEZ-MOI.txt` du dossier.
 
 ## Mises à jour
