@@ -6,7 +6,7 @@ Simples captures d'écran : il ne touche pas au jeu et ne clique jamais à ta pl
 
 ## Télécharger
 
-**[⬇ Télécharger Compteur XP.zip](https://github.com/eltacosanchez/compteur-xp-dofus-/raw/main/Compteur%20XP.zip)**
+**[⬇ Télécharger Compteur XP.zip](https://github.com/eltacosanchez/compteur-xp-dofus/raw/main/Compteur%20XP.zip)**
 
 ## Installer
 
@@ -29,6 +29,6 @@ Tout est expliqué dans le fichier `LISEZ-MOI.txt` du dossier.
 
 Elles sont **automatiques** : au démarrage, le compteur regarde s'il existe une nouvelle version ici. Si oui, un bouton doré **« Installer la v… »** apparaît en haut : un clic, et c'est installé. Tes sessions et ton historique sont gardés.
 
-Tu as une version d'avant la 1.3 ? Installe une fois **[la mise à jour à la main](https://github.com/eltacosanchez/compteur-xp-dofus-/raw/main/Compteur%20XP%20-%20mise%20%C3%A0%20jour.zip)** : décompresse-la, puis double-clique sur `Installer la mise à jour.vbs`. Ensuite, les mises à jour arriveront toutes seules.
+Tu as une version d'avant la 1.3 ? Installe une fois **[la mise à jour à la main](https://github.com/eltacosanchez/compteur-xp-dofus/raw/main/Compteur%20XP%20-%20mise%20%C3%A0%20jour.zip)** : décompresse-la, puis double-clique sur `Installer la mise à jour.vbs`. Ensuite, les mises à jour arriveront toutes seules.
 
 Les nouveautés de chaque version sont dans `NOUVEAUTES.txt`.
