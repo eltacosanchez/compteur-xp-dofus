@@ -42,6 +42,17 @@ La valeur de ton butin (onglet **Ressources**) est calculée grâce au **[Suivi 
 
 Tout est expliqué dans le fichier `LISEZ-MOI.txt` du dossier.
 
+## Les autres compteurs
+
+Même principe, pour d'autres jeux d'Ankama : ils lisent seulement l'écran, sans toucher au jeu. Chacun est un programme à part, qui s'installe comme le Compteur XP (débloquer le zip, extraire, double-cliquer sur le fichier `.vbs`).
+
+- **Compteur Wakfu** : l'XP de chaque combat, ton niveau et le butin lus dans le chat de Wakfu, une carte par personnage et un objectif de niveau.
+  **[⬇ Télécharger Compteur Wakfu.zip](https://github.com/eltacosanchez/compteur-xp-dofus/raw/main/Wakfu/Compteur%20Wakfu.zip)**
+- **Compteur Rétro** : l'XP, les kamas et l'XP de la monture lus dans le chat de Dofus Rétro, gains par heure et objectif de niveau.
+  **[⬇ Télécharger Compteur Rétro.zip](https://github.com/eltacosanchez/compteur-xp-dofus/raw/main/Retro/Compteur%20R%C3%A9tro.zip)**
+
+Ces deux-là ne se mettent pas encore à jour tout seuls : pour une nouvelle version, retélécharge le zip et garde ton dossier `donnees`.
+
 ## Mises à jour
 
 Elles sont **automatiques** : au démarrage, le compteur regarde s'il existe une nouvelle version ici. Si oui, un bouton doré **« Installer la v… »** apparaît en haut : un clic, et c'est installé. Tes sessions et ton historique sont gardés.
