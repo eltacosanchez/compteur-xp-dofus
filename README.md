@@ -1,6 +1,6 @@
 # Compteur XP pour Dofus 3
 
-Outil Windows qui suit tes sessions Dofus : il lit tout seul l'XP, les kamas et le butin à l'écran (chat et fin de combat), même en multi-comptes. Gains par heure et par personnage, valeur du butin selon les prix HDV et historique des sessions.
+Outil Windows qui suit tes sessions Dofus : il lit tout seul l'XP, les kamas et le butin à l'écran (chat et fin de combat), même en multi-comptes. Gains par heure et par personnage, passages en donjon, objectifs de niveau, bilan de tes journées, valeur du butin selon les prix HDV et historique des sessions.
 
 Simples captures d'écran : il ne touche pas au jeu et ne clique jamais à ta place. Gratuit, sans compte, sans connexion à Ankama. Projet de fan non officiel.
 
@@ -18,10 +18,19 @@ Il faut Windows 10 ou 11 avec la langue française installée (c'est déjà le c
 
 ## Utiliser
 
-- Clique sur **« Démarrer la session »** avant ton premier combat, puis joue normalement.
+- Joue normalement : la session démarre toute seule au premier combat.
 - L'XP est lue dans le chat ; les kamas et le butin sur le panneau de fin de combat : laisse-le affiché 2 ou 3 secondes.
 - En haut : **XP**, **Kamas** ou **Ressources**. Dans l'historique, double-clique sur une session pour voir ce qu'a gagné chaque personnage.
 - Tes fenêtres Dofus peuvent être les unes derrière les autres, mais pas réduites dans la barre des tâches.
+
+## Ce qu'il sait faire
+
+- **Donjons** : il reconnaît tout seul le donjon et la salle, compte chaque passage (temps, XP, kamas, butin, boss), garde tes records et te dit quel donjon te rapporte le plus.
+- **Objectif** : donne un niveau à atteindre, il affiche ce qu'il reste d'après la vraie barre d'XP du jeu, le temps de jeu nécessaire et la date probable. Objectifs d'XP du jour et de la semaine.
+- **Bilan** : totaux du jour, de la semaine et du mois, courbes de la session, records, heures et zones les plus rentables, pour toute l'équipe ou un seul personnage.
+- **Mini-compteur** posé par-dessus le jeu (Ctrl+Alt+X), alertes (objectif atteint, record battu, objet recherché, combat peut-être manqué).
+- **Corrections à la main** par clic droit : un combat, une quantité, un nom d'objet, un prix.
+- **Réglages** : taille de l'affichage, couleur, sons, alertes, export pour Excel, copies de secours.
 
 ## Prix des ressources : avec le Suivi HDV
 
